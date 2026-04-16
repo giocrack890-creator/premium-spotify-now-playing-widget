@@ -1,2 +1,18 @@
-# premium-spotify-now-playing-widget
-A premium minimal Spotify widget for Übersicht with artwork-based dynamic colors, playback controls, progress bar, and a polished glass-inspired interface.
+# Premium Spotify Now Playing
+
+A premium minimal Spotify widget for Übersicht.
+
+## Features
+- current track, artist and album
+- artwork-based dynamic background
+- progress bar
+- playback controls
+- animated equalizer
+
+## Requirements
+- macOS
+- Übersicht
+- Spotify app installed
+
+## Installation
+Download the `.widget` folder and place it in your Übersicht widgets directory.
